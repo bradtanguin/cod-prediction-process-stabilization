@@ -1,4 +1,4 @@
-# Machine learning-based prediction of influent Chemical Oxygen Demand (COD) for Food-to-Microorganism (F/M) ratio estimation and Sludge Propagation Optimization in Wastewater Treatment.
+# Machine learning-based prediction of influent Chemical Oxygen Demand (COD) for Food-to-Microorganism (F/M) ratio estimation and Sludge Propagation Optimization in Wastewater Treatment
 
 ## 📌 Background
 
@@ -19,3 +19,8 @@ This project aims to develop a data-driven approach for predicting influent COD 
 - To develop and evaluate Machine Learning models for influent Chemical Oxygen Demand (COD) prediction.
 - To validate predicted COD values against laboratory results and support Food-to-Microorganism (F/M) ratio estimation.
 - To provide data-driven insights for monitoring Mixed Liquor Suspended Solids (MLSS), Mixed Liquor Volatile Suspended Solids (MLVSS), Sludge Volume Index (SVI), and 30-minute Settled Sludge Volume (SV30) to support improved Biological Nutrient Removal (BNR) performance.
+
+## 📋 Project Workflow
+
+<img width="1414" height="2000" alt="Project Dessign_cod_ML (1)" src="https://github.com/user-attachments/assets/54932c1d-8e3a-49f6-818f-cbdaf11a0340" />
+
