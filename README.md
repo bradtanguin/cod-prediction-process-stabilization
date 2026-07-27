@@ -1,4 +1,4 @@
-# Machine learning-based prediction of influent Chemical Oxygen Demand (COD) for Food-to-Microorganism (F/M) ratio estimation and Sludge Propagation Optimization in Wastewater Treatment
+# Statistical and Machine learning-based prediction of influent Chemical Oxygen Demand (COD) for Food-to-Microorganism (F/M) ratio estimation and Sludge Propagation Optimization in Wastewater Treatment
 
 ## 📌 Background
 
