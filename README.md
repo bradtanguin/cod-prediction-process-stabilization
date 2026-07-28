@@ -22,7 +22,6 @@ This project aims to develop a data-driven approach for predicting influent COD 
 
 ## 📋 Project Framework
 
-<img width="828" height="1062" alt="COD_Project Framework" src="https://github.com/user-attachments/assets/02a62fd8-69c2-48ad-b4b9-f2222f27da68" />
-
+<img width="827" height="1062" alt="COD_Project Framework drawio" src="https://github.com/user-attachments/assets/fd39e1ff-f967-4e72-8e6d-4038d14fe338" />
 
 
