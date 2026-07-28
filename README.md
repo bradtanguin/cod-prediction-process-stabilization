@@ -20,7 +20,8 @@ This project aims to develop a data-driven approach for predicting influent COD 
 - To validate predicted COD values against laboratory results and support Food-to-Microorganism (F/M) ratio estimation.
 - To provide data-driven insights for monitoring Mixed Liquor Suspended Solids (MLSS), Mixed Liquor Volatile Suspended Solids (MLVSS), Sludge Volume Index (SVI), and 30-minute Settled Sludge Volume (SV30) to support improved Biological Nutrient Removal (BNR) performance.
 
-## 📋 Methodology Overview
+## 📋 Project Framework
 
-<img width="1414" height="2000" alt="Project Dessign_cod_ML (1)" src="https://github.com/user-attachments/assets/54932c1d-8e3a-49f6-818f-cbdaf11a0340" />
+<img width="839" height="1083" alt="COD_Project Framework" src="https://github.com/user-attachments/assets/d975c2b7-bdec-45bd-a8fd-238c6c068292" />
+
 
